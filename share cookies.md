@@ -1,0 +1,1 @@
+[http - Share cookies between subdomain and domain - Stack Overflow](https://stackoverflow.com/questions/18492576/share-cookies-between-subdomain-and-domain)
