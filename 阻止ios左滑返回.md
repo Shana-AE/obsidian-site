@@ -1,0 +1,1 @@
+可以使用touchstart事件的e.preventDefault()实现

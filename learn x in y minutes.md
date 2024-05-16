@@ -1,0 +1,1 @@
+[Learn Rust in Y Minutes (learnxinyminutes.com)](https://learnxinyminutes.com/docs/rust/)

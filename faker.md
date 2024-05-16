@@ -1,0 +1,1 @@
+[faker-js/faker: Generate massive amounts of fake data in the browser and node.js (github.com)](https://github.com/faker-js/faker)

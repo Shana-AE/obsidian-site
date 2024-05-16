@@ -1,0 +1,1 @@
+[Chapter 4. Intercepting network requests - Progressive Web Apps (manning.com)](https://livebook.manning.com/book/progressive-web-apps/chapter-4/81)

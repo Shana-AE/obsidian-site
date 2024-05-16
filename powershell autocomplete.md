@@ -1,0 +1,1 @@
+[Add a Bash-like autocomplete to your PowerShell - DEV Community](https://dev.to/ofhouse/add-a-bash-like-autocomplete-to-your-powershell-4257)

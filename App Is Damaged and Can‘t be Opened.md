@@ -1,0 +1,1 @@
+[How to Fix “App Is Damaged and Can’t Be Opened” on Mac (howtogeek.com)](https://www.howtogeek.com/803598/app-is-damaged-and-cant-be-opened/)

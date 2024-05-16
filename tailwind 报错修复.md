@@ -1,0 +1,1 @@
+一是使用stylelint，还有一种是https://github.com/tailwindlabs/tailwindcss/discussions/5258#discussioncomment-1979394

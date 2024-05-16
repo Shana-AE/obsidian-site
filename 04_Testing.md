@@ -1,0 +1,1 @@
+clap reports most development errors as `debug_assert!`s. Rather than checking every subcommand, you should have a test that calls [`Command::debug_assert`](https://docs.rs/clap/latest/clap/struct.Command.html#method.debug_assert "method clap::Command::debug_assert"):

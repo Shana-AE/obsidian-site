@@ -1,0 +1,1 @@
+[`Module has no default export` error with Vue 3 `script setup` components in v6.3.5 · Issue #668 · TypeStrong/fork-ts-checker-webpack-plugin (github.com)](https://github.com/TypeStrong/fork-ts-checker-webpack-plugin/issues/668)

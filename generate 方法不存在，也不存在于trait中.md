@@ -1,0 +1,1 @@
+可能存在于features中，需要查看文档，比如ed25519_dalek的[SigningKey in ed25519_dalek - Rust (docs.rs)](https://docs.rs/ed25519-dalek/latest/ed25519_dalek/struct.SigningKey.html#method.generate)

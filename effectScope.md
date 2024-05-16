@@ -1,0 +1,1 @@
+[rfcs/0041-reactivity-effect-scope.md at master · vuejs/rfcs (github.com)](https://github.com/vuejs/rfcs/blob/master/active-rfcs/0041-reactivity-effect-scope.md)

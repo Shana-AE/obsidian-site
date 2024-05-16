@@ -1,0 +1,2 @@
+image需要crossOrigin=“anonymous”
+background image 用html2canvas会报错，应该是repeat导致其创建图片

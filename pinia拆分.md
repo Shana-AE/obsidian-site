@@ -1,0 +1,1 @@
+[How to split store in different files? And the limits of object type inference · Issue #802 · vuejs/pinia (github.com)](https://github.com/vuejs/pinia/issues/802)

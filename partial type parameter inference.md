@@ -1,0 +1,1 @@
+[Typescript: infer type of generic after optional first generic - Stack Overflow](https://stackoverflow.com/questions/60377365/typescript-infer-type-of-generic-after-optional-first-generic)

@@ -1,0 +1,1 @@
+[A method to get the number of current history stacks · Issue #1647 · vuejs/router (github.com)](https://github.com/vuejs/router/issues/1647)

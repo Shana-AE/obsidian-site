@@ -1,0 +1,1 @@
+- e.g. `"@/*" : ["src/*"]`， 路径为relative to baseUrl
