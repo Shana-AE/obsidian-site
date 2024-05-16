@@ -1,0 +1,3 @@
+- [PixiJS – Pal's Blog (shukantpal.com)](https://www.shukantpal.com/blog/category/pixijs/)
+- [Saving the 🐟 with 🐰 : how we used WebGL and Pixi.js for temporal mapping | by Erik Escoffier / Satellite Studio | Vizzuality Blog | Medium](https://medium.com/vizzuality-blog/saving-the-with-how-we-used-webgl-and-pixi-js-for-temporal-mapping-2cffaed60b91)
+- [用 Pixi.js 仿一个 Brotato (二 基础篇) - 掘金 (juejin.cn)](https://juejin.cn/post/7169609124873764878)
