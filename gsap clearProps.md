@@ -1,0 +1,1 @@
+需要CSSPlugin，clearProps: true 为结束时清除设置的值，所以gsap,set(xxx, { ..., clearProps: true })会导致设置失效
