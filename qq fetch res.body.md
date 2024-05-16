@@ -1,0 +1,1 @@
+qq内部的浏览器应该是使用的fetch-polyfill没有body属性，无法使用Response.body属性
