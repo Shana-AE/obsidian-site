@@ -1,0 +1,1 @@
+[Window: scroll() method - Web APIs | MDN (mozilla.org)](https://developer.mozilla.org/en-US/docs/Web/API/Window/scroll#notes)
