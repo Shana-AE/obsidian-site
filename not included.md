@@ -1,0 +1,1 @@
+["parserOptions.project" has been set for @typescript-eslint/parser - Stack Overflow](https://stackoverflow.com/questions/58510287/parseroptions-project-has-been-set-for-typescript-eslint-parser)
