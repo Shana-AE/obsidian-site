@@ -1,0 +1,1 @@
+[Support for TypeScript project references · Issue #647 · egoist/tsup (github.com)](https://github.com/egoist/tsup/issues/647)
