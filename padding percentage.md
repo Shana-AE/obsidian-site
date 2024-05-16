@@ -1,0 +1,1 @@
+[Oh Hey, Padding Percentage is Based on the Parent Element's Width | CSS-Tricks - CSS-Tricks](https://css-tricks.com/oh-hey-padding-percentage-is-based-on-the-parent-elements-width/)
