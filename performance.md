@@ -1,0 +1,1 @@
+对于复杂的对象可以设置cacheAsBitmap = true 加速
