@@ -1,0 +1,1 @@
+[How to add 'global.d.ts' to build file? · Issue #204 · unjs/unbuild (github.com)](https://github.com/unjs/unbuild/issues/204)
