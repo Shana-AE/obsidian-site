@@ -1,0 +1,1 @@
+fn 参数类型可以写`impl Into<xxx>`, 这样实现了`Into<xxx>`的类型都可以传进来
